@@ -1,0 +1,13 @@
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Entities\obj\Debug\ProjectProducts.Entities.csproj.AssemblyReference.cache
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Entities\obj\Debug\ProjectProducts.Entities.csproj.CoreCompileInputs.cache
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Entities\bin\Debug\ProjectProducts.Entities.dll
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Entities\bin\Debug\ProjectProducts.Entities.pdb
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Entities\bin\Debug\ProjectProducts.DAL.dll
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Entities\bin\Debug\ProjectProducts.Model.dll
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Entities\bin\Debug\ProjectProducts.DAL.pdb
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Entities\bin\Debug\ProjectProducts.Model.pdb
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Entities\obj\Debug\ProjectProducts.Entities.csproj.CopyComplete
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Entities\obj\Debug\ProjectProducts.Entities.dll
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Entities\obj\Debug\ProjectProducts.Entities.pdb
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Entities\bin\Debug\ProjectProducts.Data.Sql.dll
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Entities\bin\Debug\ProjectProducts.Data.Sql.pdb

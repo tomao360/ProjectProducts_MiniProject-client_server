@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  background-color: rgb(217, 215, 215);
+}
+
+h1 {
+  font-weight: 700 !important;
+}
+
+.spinner-app {
+  height: 100vh !important;
+  display: flex !important;
+  justify-content: center !important;
+}

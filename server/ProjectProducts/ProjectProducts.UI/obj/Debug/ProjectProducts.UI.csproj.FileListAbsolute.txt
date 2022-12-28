@@ -1,0 +1,11 @@
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.UI\bin\Debug\ProjectProducts.UI.exe.config
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.UI\bin\Debug\ProjectProducts.UI.exe
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.UI\bin\Debug\ProjectProducts.UI.pdb
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.UI\obj\Debug\ProjectProducts.UI.csproj.AssemblyReference.cache
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.UI\obj\Debug\ProjectProducts.UI.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.UI\obj\Debug\ProjectProducts.UI.Form1.resources
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.UI\obj\Debug\ProjectProducts.UI.Properties.Resources.resources
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.UI\obj\Debug\ProjectProducts.UI.csproj.GenerateResource.cache
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.UI\obj\Debug\ProjectProducts.UI.csproj.CoreCompileInputs.cache
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.UI\obj\Debug\ProjectProducts.UI.exe
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.UI\obj\Debug\ProjectProducts.UI.pdb

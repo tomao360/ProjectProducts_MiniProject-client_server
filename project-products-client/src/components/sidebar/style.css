@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 150px !important;
+  height: 100vh !important;
+  background-color: #8d8de3;
+}
+
+li {
+  margin-top: 40px;
+  list-style-type: none;
+}
+
+li a {
+  text-decoration: none;
+  color: antiquewhite !important;
+  display: flex;
+}
+
+.icon {
+  margin-right: 10px;
+  color: antiquewhite;
+}
+
+.logout {
+  background: none;
+  border: none;
+  color: antiquewhite !important;
+  display: flex;
+}
+
+@media only screen and (max-width: 600px) {
+  .section-name {
+    display: none;
+  }
+  .container {
+    width: 50px !important;
+  }
+}

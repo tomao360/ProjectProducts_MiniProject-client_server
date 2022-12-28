@@ -1,0 +1,11 @@
+.message-inputs {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  align-content: center !important;
+}
+
+input:focus {
+  box-shadow: none !important;
+  border: 3px solid #6c757da2 !important;
+}

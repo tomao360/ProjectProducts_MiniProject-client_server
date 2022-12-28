@@ -1,0 +1,6 @@
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.DAL\bin\Debug\ProjectProducts.DAL.dll
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.DAL\bin\Debug\ProjectProducts.DAL.pdb
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.DAL\obj\Debug\ProjectProducts.DAL.csproj.AssemblyReference.cache
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.DAL\obj\Debug\ProjectProducts.DAL.csproj.CoreCompileInputs.cache
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.DAL\obj\Debug\ProjectProducts.DAL.dll
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.DAL\obj\Debug\ProjectProducts.DAL.pdb

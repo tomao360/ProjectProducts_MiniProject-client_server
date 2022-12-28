@@ -1,0 +1,11 @@
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Data.Sql\bin\Debug\ProjectProducts.Data.Sql.dll
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Data.Sql\bin\Debug\ProjectProducts.Data.Sql.pdb
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Data.Sql\bin\Debug\ProjectProducts.DAL.dll
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Data.Sql\bin\Debug\ProjectProducts.Model.dll
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Data.Sql\bin\Debug\ProjectProducts.DAL.pdb
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Data.Sql\bin\Debug\ProjectProducts.Model.pdb
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Data.Sql\obj\Debug\ProjectProducts.Data.Sql.csproj.AssemblyReference.cache
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Data.Sql\obj\Debug\ProjectProducts.Data.Sql.csproj.CoreCompileInputs.cache
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Data.Sql\obj\Debug\ProjectProducts.Data.Sql.csproj.CopyComplete
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Data.Sql\obj\Debug\ProjectProducts.Data.Sql.dll
+D:\Programming\Zionet\C#\ProjectProducts\ProjectProducts.Data.Sql\obj\Debug\ProjectProducts.Data.Sql.pdb
